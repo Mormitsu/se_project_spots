@@ -1,21 +1,15 @@
 # Project 3: Spots
 
-### Overview  
+**Description**
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+- This project was created to excercise different techniques used to proyect the same project on different screen sizes.
+
+**Technologies & Functionality**
+
+- HTML and CSS were used to create this project so called Spots, which functionality is to let app users like other users posts, or even edit their profile and add new posts
+
+**Techniques**
+
+- Techniques that were used in this project includes @media queries which allowed us to set a 'max-width' and insert changes so that beyond that width our app would fit perfect for smaller or bigger screen sizes.
+
+git@github.com:Mormitsu/se_project_spots.git
