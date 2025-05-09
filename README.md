@@ -1,5 +1,7 @@
 # Project 3: Spots
 
+- https://git@github.com:Mormitsu/se_project_spots.git
+
 **Description**
 
 - This project was created to excercise different techniques used to proyect the same project on different screen sizes.
@@ -11,5 +13,3 @@
 **Techniques**
 
 - Techniques that were used in this project includes @media queries which allowed us to set a 'max-width' and insert changes so that beyond that width our app would fit perfect for smaller or bigger screen sizes.
-
-* https://git@github.com:Mormitsu/se_project_spots.git
