@@ -15,9 +15,11 @@
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  display: -webkit-box;
   overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
 }
 
 .card__content {
