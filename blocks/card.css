@@ -15,22 +15,20 @@
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  display: -webkit-box;
   overflow: hidden;
   text-overflow: ellipsis;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
+  white-space: nowrap;
 }
 
 .card__content {
+  margin-top: 12px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-size: 20px;
 }
 
 .card__like-btn {
-  background-image: url(../images/Icon.svg);
+  background-image: url(../images/Like-Icon.svg);
   width: 23px;
   height: 20px;
   border: none;
@@ -53,5 +51,10 @@
   .card__title {
     font-size: 16px;
     max-width: 235px;
+  }
+
+  .card__like-btn {
+    width: 20px;
+    height: 18px;
   }
 }
