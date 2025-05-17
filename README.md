@@ -1,6 +1,4 @@
-# Project 3: Spots
-
-- https://git@github.com:Mormitsu/se_project_spots.git
+# Spots - An image sharing site
 
 **Description**
 
@@ -10,6 +8,7 @@
 
 - HTML and CSS were used to create this project so called Spots, which functionality is to let app users like other users posts, or even edit their profile and add new posts
 
-**Techniques**
+**Deplyment**
 
-- Techniques that were used in this project includes @media queries which allowed us to set a 'max-width' and insert changes so that beyond that width our app would fit perfect for smaller or bigger screen sizes.
+- This project is deployed on GitHub Pages
+- git@github.com:Mormitsu/se_project_spots.git
