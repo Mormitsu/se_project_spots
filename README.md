@@ -11,4 +11,4 @@
 **Deplyment**
 
 - This project is deployed on GitHub Pages
-- git@github.com:Mormitsu/se_project_spots.git
+- https://github.com/Mormitsu/se_project_spots.git
