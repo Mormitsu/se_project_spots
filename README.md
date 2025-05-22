@@ -12,3 +12,6 @@
 
 - This project is deployed on GitHub Pages
 - https://mormitsu.github.io/se_project_spots/
+- This is the link to the videos explaining my project.
+- https://drive.google.com/file/d/1INgLDE8uPStXWdrIsjWcmrB9A126TwsD/view?usp=sharing
+- https://drive.google.com/file/d/1PHJWyiyTfX0ch5p1FAsotMTpp50_bXfl/view?usp=sharing
