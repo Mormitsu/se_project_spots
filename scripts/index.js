@@ -40,3 +40,18 @@ function handleEditProfileSubmit(evt) {
 }
 
 editProfileForm.addEventListener("submit", handleEditProfileSubmit);
+
+document.addEventListener("DOMContentLoaded", () => {
+  const form = document.querySelector(".modal__form");
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    const imageLink = document.getElementById("card-image-input").value;
+    const caption = document.getElementById("image-caption-input").value;
+
+    console.log("New Post Submitted:");
+    console.log("Image Link:", imageLink);
+    console.log("Caption:", caption);
+  });
+});
