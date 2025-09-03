@@ -138,6 +138,7 @@ newPostForm.addEventListener("submit", function (evt) {
   cardsList.prepend(cardElement);
 
   newPostModal.classList.remove("modal_is-opened");
+  newPostForm.reset();
 });
 
 initialCards.forEach(function (item) {
